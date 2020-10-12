@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://169.254.169.254/latest/meta-data/hostname
+http://liveredbulltv02-i.akamaihd.net/hls/live/267227/UsVnocLiveTestDVR/master.m3u8
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID=“subs”,NAME=“English”,FORCED=NO,AUTOSELECT=YES,URI=“http://169.254.169.254/latest/meta-data/hostname”,LANGUAGE=“eng”
 #EXT-X-ENDLIST
